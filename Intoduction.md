@@ -7,16 +7,18 @@ An Operating System (OS) is system software that manages computer hardware, soft
 Operating systems are essential for the functioning of computers and other devices, as they handle tasks such as memory management, process scheduling, file management, and device control. They provide a user interface, allowing users to interact with the system through graphical user interfaces (GUIs) or command-line interfaces (CLIs).
 
 <details>
-  <summary> Types of Operating Systems</summary>
-###  Desktop Operating Systems
+  <summary>Types of Operating Systems</summary>
+
+
+### Desktop Operating Systems
 - Designed for personal computers and laptops.
 - Examples: Windows, macOS, Linux.
 
-###  Server Operating Systems
+### Server Operating Systems
 - Optimized for managing network resources and services.
 - Examples: Windows Server, Linux Server.
 
-###  Mobile Operating Systems
+### Mobile Operating Systems
 - Tailored for smartphones and tablets.
 - Examples: Android, iOS.
 
