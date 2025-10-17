@@ -1,4 +1,4 @@
-<h1> INTRODUCTION TO LINUX 🐧</h1>
+<h1>🏁INTRODUCTION TO LINUX 🐧</h1>
 
 <h2>Whats is Linux ?</h2>
 
