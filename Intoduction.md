@@ -42,7 +42,7 @@ Operating systems are essential for the functioning of computers and other devic
 <details>
   <summary>💻 BroCode</summary>
 
-# 🧠 INTRODUCTION TO OPERATING SYSTEM (BroCode Style)
+# 🚪 INTRODUCTION TO OPERATING SYSTEM (BroCode Style)
 
 So bhai, **Operating System (OS)** basically ek **middleman** hai — tere aur tere computer ke hardware ke beech ka *thekedaar*.
 Tu command deta hai, aur OS bolta hai “Chill bro, main handle karta hoon.” 😎
