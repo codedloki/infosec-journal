@@ -19,3 +19,6 @@
 <h2>Init Process</h2>
 
 <h2>Runlevels/Targets</h2>
+
+
+[Next](https://github.com/codedloki/infosec-journal/blob/operating-system/linux/3_Basic_Linux_cmd.md)

@@ -23,4 +23,4 @@
 
 
 
-[Next](https://github.com/codedloki/infosec-journal/blob/operating-system/linux/SystemArchitecture.md)
+[Next](https://github.com/codedloki/infosec-journal/blob/operating-system/linux/2_SystemArchitecture.md)
