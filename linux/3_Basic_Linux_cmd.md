@@ -46,6 +46,7 @@ cp <source_path> <destination_path>
  ```
 
 <h3>Remove or delete a file </h3>
+
  ```
  rm filename
  ```
