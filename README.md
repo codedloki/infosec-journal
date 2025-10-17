@@ -1,7 +1,7 @@
 ## Operating System Notes
 
 Table of Contents
-- [Introduction](#introduction)
+- [Introduction](https://github.com/codedloki/infosec-journal/blob/operating-system/Intoduction.md)
 - [Linux](#linux)
 - [Windows](#windows)
 - [macOS](#macos)
