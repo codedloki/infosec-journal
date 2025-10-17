@@ -40,7 +40,7 @@ Operating systems are essential for the functioning of computers and other devic
 </details>
 
 <details>
-  <summary>💻 BroCode</summary>
+  <summary><h2>💻 BroCode</h2></summary>
 
 # 🚪 INTRODUCTION TO OPERATING SYSTEM (BroCode Style)
 
