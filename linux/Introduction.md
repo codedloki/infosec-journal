@@ -20,3 +20,7 @@
 
 
 <h2>Understanding the Linux Kernel</h2>
+
+
+
+[Next](https://github.com/codedloki/infosec-journal/blob/operating-system/linux/SystemArchitecture.md)
