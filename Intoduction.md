@@ -8,10 +8,9 @@ Operating systems are essential for the functioning of computers and other devic
 
 <details>
   <summary> Types of Operating Systems</summary>
-  |-----------------------------------|-------------------------------------------------|------------------------------|
-  | Operating System Type             |              Description                                                | Examples                            |
-  |---------------------------------|--------------------------------------------------|------------------------------|
-  |Desktop Operating Systems    | Designed for personal computers and laptops. | Windows, macOS, Linux        |
+###  Desktop Operating Systems
+- Designed for personal computers and laptops.
+- Examples: Windows, macOS, Linux.
 
 ###  Server Operating Systems
 - Optimized for managing network resources and services.
