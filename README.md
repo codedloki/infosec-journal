@@ -4,4 +4,4 @@
 #### CONCEPTS
 
 
-1. [Link](http://example.com)
+1. [NETWORKING DEVICES](https://github.com/codedloki/infosec-journal/tree/networking)
